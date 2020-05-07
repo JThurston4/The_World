@@ -1,0 +1,8 @@
+{
+    "!raid": "Displays current raid members",
+    "!joinRaid": "Join the raid",
+    "!leaveRaid": "Leave the raid",
+    "!clearRaid": "Remove all members from raid",
+    "!ping": "Pong!"
+}
+

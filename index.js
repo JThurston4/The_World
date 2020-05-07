@@ -1,5 +1,6 @@
 const pingPong = require('./commands/ping');
 const help = require('./commands/help');
+const kick = require('./commands/kick')
 const dbTest = require('./commands/raid');
 const config = require('config')
 require('./db/dbConfig.js')
@@ -19,3 +20,4 @@ if (!config.get('loginKey')) {
 dbTest;
 help;
 pingPong;
+kick;

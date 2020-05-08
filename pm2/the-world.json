@@ -3,7 +3,7 @@
       "name": "the-world",
       "script": "index.js",
       "cwd": "/root/The_World",
-      "interpreter": "/opt/node/node-v10.2.1-linux-x64/bin/node",
+      "interpreter": "/root/.nvm/versions/node/v10.2.1",
       "env": {
         "NODE_ENV": "production"
       }
